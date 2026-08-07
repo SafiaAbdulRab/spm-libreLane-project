@@ -8,7 +8,7 @@ A digital IC design project implemented using LibreLane in an Ubuntu environment
 
 - Ubuntu Linux
 - LibreLane
-- Verilog HDL
+- Verilog
 - Digital IC Design Tools
 
 ## Work Performed
